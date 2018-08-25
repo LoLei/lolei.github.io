@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lolei.github.io/categories/</loc>
+    <loc>https://lolei.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lolei.github.io/</loc>
+    <loc>https://lolei.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lolei.github.io/tags/</loc>
+    <loc>https://lolei.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
