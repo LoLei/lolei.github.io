@@ -1,6 +1,8 @@
 # lolei.github.io
-Website hub
+Website hub - All my online presences together
 
-Powered by Hugo and Nix theme.
+## Info 
+* Powered by [Hugo](https://gohugo.io/) and [this theme](https://github.com/LoLei/hugo/tree/master/hub/themes).
 
-Hugo content repo: https://github.com/LoLei/hugo
+### Hugo
+[Hugo content repo](https://github.com/LoLei/hugo)
