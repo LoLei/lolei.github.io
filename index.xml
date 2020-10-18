@@ -2,18 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenz Leitner</title>
-    <link>https://lolei.github.io/index.html</link>
+    <link>https://lolei.github.io/</link>
     <description>Recent content on Lorenz Leitner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://lolei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 25 Aug 2018 13:17:08 +0200</lastBuildDate><atom:link href="https://lolei.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tags</title>
-      <link>https://lolei.github.io/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>About Lorenz</title>
+      <link>https://lolei.github.io/about/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lolei.github.io/tags/</guid>
-      <description></description>
+      <guid>https://lolei.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Lorenz. Here are some facts about me that might be of interest to you:
+ Profession: Software Engineer Degrees:  MSc (Dipl.Ing. for my fellow Austrians) BSc
+In Software Engineering &amp;amp; Management and Software Development &amp;amp; Business Management, respectively, from Graz University of Technology   Interests: Python, C++, many other programming languages, Linux, vim, free and open-source software Portfolio: lolei.github.io/portfolio How to reach me: See the front page for either my email address or my socials  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://lolei.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 25 Aug 2018 13:17:08 +0200</pubDate>
+      
+      <guid>https://lolei.github.io/posts/my-first-post/</guid>
+      <description>This is a test post.</description>
     </item>
     
   </channel>
